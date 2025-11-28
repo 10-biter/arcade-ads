@@ -1,5 +1,6 @@
 namespace ad {
 //%groups="[baner, normal]"
+//%color=#24472a icon="\uf21b"
 
 
 
